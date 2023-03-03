@@ -1,4 +1,4 @@
-timport React, { useRef } from 'react';
+import React, { useRef } from 'react';
 
 import Container from '../components/Container';
 import Hero from '../components/Hero';
