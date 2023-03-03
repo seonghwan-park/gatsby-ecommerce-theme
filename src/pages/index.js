@@ -39,7 +39,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sㅅydney theme for verse by{' '}
+          This is a demonstration of the 시혀니 theme for verse by{' '}
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>
