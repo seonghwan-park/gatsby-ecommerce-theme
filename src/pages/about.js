@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+timport React, { useRef } from 'react';
 
 import Container from '../components/Container';
 import Hero from '../components/Hero';
@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`Sydney \n A British brand since 1860`}
+          title={`시혀니 - 세상에서 제일 예쁜 우리 애긔`}
         />
 
         <div className={styles.navContainer}>
@@ -48,8 +48,7 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              시혀니는 2011년 11월 1일에 웅장하게 출산하였다.
             </p>
             <br />
             <br />
