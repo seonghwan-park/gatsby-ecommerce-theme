@@ -26,7 +26,7 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          image={'/about.png'}
+          image={'/about.'}
           title={`시혀니 - 세상에서 제일 예쁜 우리 애긔.`}
         />
 
