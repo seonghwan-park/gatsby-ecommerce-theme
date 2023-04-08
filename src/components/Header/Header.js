@@ -27,7 +27,7 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping worldwide';
+  const bannerMessage = '남들의 숨겨진 속마음을 알고싶어…';
   const searchSuggestions = [
     'Oversize sweaters',
     'Lama Pajamas',
