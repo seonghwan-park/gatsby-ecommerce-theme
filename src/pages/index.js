@@ -32,7 +32,7 @@ const IndexPage = () => {
         image={'/banner1.png'}
         title={'Essentials for a cold winter'}
         subtitle={'Discover Autumn Winter 2021'}
-        ctaText={'shop now'}
+        ctaText={'등록하기'}
         ctaAction={goToShop}
       />
 
@@ -80,12 +80,12 @@ const IndexPage = () => {
             miniImageAlt={'mini highlight image'}
             title={'Luxury Knitwear'}
             description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
-            textLink={'shop now'}
+            textLink={'등록하기'}
             link={'/shop'}
           />
         </Container>
       </div>
-
+햣
       {/* Promotion */}
       <div className={styles.promotionContainer}>
         <Hero image={'/banner2.png'} title={`-50% off \n All Essentials`} />
